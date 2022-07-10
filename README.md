@@ -1,9 +1,9 @@
 
 
-<h1>Nama       : Marifatul Ulfah</h1>
-<h1>Nim        : 311910577</h1>
-<h1>Kelas      : TI.20.B2</h1>
-<h1>Mata Kuliah: UAS Pemograman Web</h1>
+<h4>Nama       : Marifatul Ulfah</h4>
+<h4>Nim        : 311910577</h4>
+<h4>Kelas      : TI.20.B2</h4>
+<h4>Mata Kuliah: UAS Pemograman Web</h4>
 
 # Aplikasi Kas RT
 
