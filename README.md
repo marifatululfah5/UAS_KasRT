@@ -1,9 +1,9 @@
 # CodeIgniter 4 Application Starter
 
-Nama       : Marifatul Ulfah
-Nim        : 311910577
-Kelas      : TI.20.B2
-Mata Kuliah: UAS Pemograman Web
+<h1>Nama       : Marifatul Ulfah</h1>
+<h2>Nim        : 311910577</h2>
+<h3>Kelas      : TI.20.B2</h3>
+<h4>Mata Kuliah: UAS Pemograman Web</h4>
 
 # Aplikasi Kas RT
 
